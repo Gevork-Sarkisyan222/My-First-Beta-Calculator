@@ -1,0 +1,355 @@
+body{
+    background-color: pink;
+    /* background-image: url(https://p4.wallpaperbetter.com/wallpaper/589/956/851/background-pink-pixels-square-hd-wallpaper-preview.jpg);*/
+    background-image: url(https://images4.newscred.com/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==);
+} 
+
+.first-section{
+    border-style:outset;
+    border-width: 20px;
+    border-radius: 30px;
+    border-color: 20px;
+    padding-top: 540px;
+    width: 700px;
+    border-color: brown;
+    background-color: pink;
+    position: absolute;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    left: 290px;
+}
+
+/* .buttons-numbers{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+     
+} */
+
+
+.one{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 314px;
+    top: 300px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.two{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 478px;
+    top: 300px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.three{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 644px;
+    top: 300px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.one:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+
+.two:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+
+.three:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+
+.one2{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 314px;
+    top: 360px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+}
+
+.two2{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 478px;
+    top: 360px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.three2{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 644px;
+    top: 360px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.one3{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 314px;
+    top: 420px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+}
+
+.two3{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 478px;
+    top: 420px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.three3{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 644px;
+    top: 420px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.meaning1{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 314px;
+    top: 480px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+}
+
+.number0{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 478px;
+    top: 480px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+    
+}
+
+.meaning2{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 644px;
+    top: 480px;
+    width: 160px;
+    background-color: rgb(235, 69, 69);
+    border-radius: 5px;
+    border: none;
+}
+
+.one2:hover{
+   cursor: pointer;
+   background-color: brown;
+}
+
+.two2:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+
+.three2:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+
+/* another last numbers */
+.one3:hover{
+    cursor: pointer;
+    background-color: brown;
+ }
+ 
+.two3:hover{
+     cursor: pointer;
+     background-color: brown;
+ }
+ 
+.three3:hover{
+     cursor: pointer;
+     background-color: brown;
+}
+
+.meaning1:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+.meaning2:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+
+.number0:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+
+.equal{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 840px;
+    top: 480px;
+    width: 110px;
+    background-color: rgb(179, 42, 42);
+    border-radius: 5px;
+    border: none;
+    
+}
+
+.plus{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 840px;
+    top: 420px;
+    width: 110px;
+    background-color: rgb(179, 42, 42);
+    border-radius: 5px;
+    border: none;
+}
+
+.minus{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 840px;
+    top: 360px;
+    width: 110px;
+    background-color: rgb(179, 42, 42);
+    border-radius: 5px;
+    border: none;
+}
+
+.divide{
+    position: absolute;
+    font-size: 20px;
+    height: 50px;
+    left: 840px;
+    top: 300px;
+    width: 110px;
+    background-color: rgb(179, 42, 42);
+    border-radius: 5px;
+    border: none;
+}
+
+.equal:hover{
+    background-color: rgb(131, 30, 30);
+    cursor: pointer;
+}
+
+.minus:hover{
+    background-color: rgb(131, 30, 30);
+    cursor: pointer;
+}
+
+.plus:hover{
+    background-color: rgb(131, 30, 30);
+    cursor: pointer;
+}
+
+.divide:hover{
+    background-color: rgb(131, 30, 30);
+    cursor: pointer;
+}
+
+.inp{
+    position: absolute;
+    top: 200px;
+    left: 560px;
+    font-size: 30px;
+    text-align: end;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    background-color: rgb(255, 219, 226);
+    color: black;
+}
+
+.icon1{
+    position: absolute;
+    left: 340px;
+    top: 75px;
+    cursor: pointer;
+}
+
+.icon1:hover{
+    background-color: rgb(240, 130, 148);
+}
+
+.first-text{
+    position: absolute;
+    left: 410px;
+    top: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+
+
+
+
+
+
+
